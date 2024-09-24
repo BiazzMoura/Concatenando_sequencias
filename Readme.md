@@ -14,7 +14,7 @@ Este projeto contém um script Python desenvolvido para concatenar sequências d
 1. Clone este repositório:
 
    git clone https://github.com/BiazzMoura/Concatenando_sequencias.git 
-   cd seu_repositorio
+   cd Concatenando_sequencias
 
 2. Instale as dependências necessárias:
 
